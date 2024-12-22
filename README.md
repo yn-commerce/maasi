@@ -14,3 +14,7 @@ Mobility information platform for Isa
 - Potentially:
     - Expand to allow online booking for the ride share service
     - Allow route planning using public transport + this service
+
+
+I'll probs use microservice approach and use the OpenAPI implementation of MDS (Mobility Data Specification) available [here](https://github.com/openmobilityfoundation/mds-openapi)
+
