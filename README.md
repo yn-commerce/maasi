@@ -1,2 +1,2 @@
-# maasi
+# maasIsa
 Mobility information platform for Isa
